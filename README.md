@@ -33,8 +33,8 @@ L’objectif est de fournir des **insights exploitables** afin d’améliorer la
 ## 📂 Contenu du repo  
 - `customer_churn_prediction_telco.ipynb` → Notebook principal avec tout le workflow  
 - `README.md` → Description du projet  
-- `requirements.txt` (optionnel) → dépendances Python  
-- `data/` (optionnel) → dataset  
+- `requirements.txt`  → dépendances Python  
+- `WA_Fn-UseC_-Telco-Customer-Churn.csv`  → dataset  
 
 ---
 

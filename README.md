@@ -2,7 +2,7 @@
 
 ## 📌 Description  
 Ce projet prédit le **churn des clients** à partir du dataset Telco.  
-Il comprend le **prétraitement des données, l’analyse exploratoire et l’entraînement de modèles de Machine Learning** (Régression Logistique, Random Forest, XGBoost) pour identifier les clients à risque.  
+Il comprend le **prétraitement des données, l’analyse exploratoire et l’entraînement de modèles de Machine Learning** (Régression Logistique, Random Forest,K-Nearest Neighbor, etc.) pour identifier les clients à risque.  
 L’objectif est de fournir des **insights exploitables** afin d’améliorer la fidélisation des clients.  
 
 ---

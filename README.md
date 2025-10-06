@@ -42,5 +42,7 @@ L’objectif est de fournir des **insights exploitables** afin d’améliorer la
 - **Python 3.x**  
 - **Pandas, Numpy** → manipulation de données  
 - **Matplotlib, Seaborn** → visualisation  
-- **Scikit-learn** → prétraitement, modèles ML et évaluation   
+- **Scikit-learn** → prétraitement, modèles ML et évaluation
+
+---
 

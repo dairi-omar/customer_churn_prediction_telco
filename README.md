@@ -39,7 +39,7 @@ L’objectif est de fournir des **insights exploitables** afin d’améliorer la
 ---
 
 ## 🛠️ Technologies utilisées  
-- **Python 3.x**  
+- **Python **  
 - **Pandas, Numpy** → manipulation de données  
 - **Matplotlib, Seaborn** → visualisation  
 - **Scikit-learn** → prétraitement, modèles ML et évaluation
